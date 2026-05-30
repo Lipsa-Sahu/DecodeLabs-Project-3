@@ -29,3 +29,8 @@ Successfully analyzed the dataset using SQL queries and extracted useful insight
 - Cleaned Dataset
 - SQL Notebook
 - SQL Report
+  
+## Google Colab Notebook
+
+Notebook File: Data_Cleaning_P1.ipynb    
+Download and open the notebook in Google Colab to view the code, outputs, and project workflow.
